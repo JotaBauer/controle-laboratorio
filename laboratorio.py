@@ -36,3 +36,4 @@ while i!=5:
     elif i == 4:
         print(f'Há {vagas} vagas disponíveis')
 
+# fazendo o segundo commit requerido pela atividade
